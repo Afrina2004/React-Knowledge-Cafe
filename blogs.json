@@ -1,0 +1,54 @@
+[
+    {
+      "id": "1001",
+      "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "title": "Whispers in the Shadows",
+      "author": "Veronica Nightingale",
+      "author_img": "https://i.ibb.co/7rFSJx5/girl1.png",
+      "posted_date": "2024-06-09",
+      "reading_time": 5,
+      "hashtags": ["#Thriller #Mystery #Suspense"]
+    },
+    {
+      "id": "1002",
+      "cover":"https://i.ibb.co/6wSGGQv/online-blog.jpg" ,
+      "title": "The Enchanted Kingdom",
+      "author": "Maxwell Evergreen",
+      "author_img": "https://i.ibb.co/7rFSJx5/girl1.png",
+      "posted_date": "2024-06-08",
+      "reading_time": 7,
+      "hashtags":["#Fantasy #Adventure #Magic"]
+    },
+    {
+      "id": "1003",
+      "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+      "title": "Echoes of Serenity",
+      "author": "Aurora Dawn",
+      "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+      "posted_date": "2024-06-07",
+      "reading_time": 6,
+      "hashtags":[
+        "#Romance #Drama #LoveStory"]
+    },
+    {
+      "id": "1004",
+      "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+      "title": "TechnoGenesis",
+      "author": "Xander Techsavvy",
+      "author_img": "https://i.ibb.co/7rFSJx5/girl1.png",
+      "posted_date": "2024-06-06",
+      "reading_time": 5,
+      "hashtags": ["#SciFi #Cyberpunk #Technology"]
+    },
+    {
+      "id": "1005",
+      "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "title": "Paws and Claws: The Case of the Missing Bone",
+      "author": "Tabitha Whiskerbottom",
+      "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+      "posted_date": "2024-06-05",
+      "reading_time": 10,
+      "hashtags":[ "#ChildrensBook #Mystery #Adventure"]
+    }
+  ]
+  
